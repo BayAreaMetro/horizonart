@@ -36,7 +36,7 @@
         "#333333"
       ]
     },
-    "favicon": "@PROJECT_PATH@/assets/images/logofavi-128x128-128x128.png",
+    "favicon": "@PROJECT_PATH@/assets/images/horizon-favi-32x32.png",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
